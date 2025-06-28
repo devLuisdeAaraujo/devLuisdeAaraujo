@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-My name´s s Luís Gustavo. I´ve 18 old year´s and I´m in 2º semester of college Software Engineer in Eniac.  
+My name´s Luís Gustavo. I´ve 18 old years and I´m in 2º semester of college Software Engineer in Eniac.  
 I´Always did loved technology and your soluctions — Like this being a motivation for my study every day´s abble technoly and your constructions.
 
 ---
