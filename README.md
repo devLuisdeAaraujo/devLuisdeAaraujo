@@ -2,8 +2,8 @@
 
 **`Full Stack-end Developer`**
 
-My name´s Luís Gustavo. I´ve 18 old years and I´m in 2º semester of college Software Engineer in Eniac.  
-I´Always did loved technology and your soluctions — Like this being a motivation for my study every day´s abble technoly and your constructions.
+Hello, welcome for my github! For here I will share my ideas and projects that here will be my ideas and projects. I wait that I can help you with some idea our somekind of code.
+Usually, my prefers language are Java, Python and JavaScript. I find be a Full Stack and want make with DevOps.
 
 ---
 
