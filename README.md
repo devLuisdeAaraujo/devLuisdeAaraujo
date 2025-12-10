@@ -37,7 +37,7 @@ Usually, my preferred languages are Java, Python and JavaScript. I aim to become
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol.png)" title="AWS" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol.png" title="AWS" width="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40"/>
 </div>
