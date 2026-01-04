@@ -1,17 +1,21 @@
 ## 👨🏻‍💻 Luís Gustavo de Araújo Sousa
 
-**`Full Stack-end Developer`**
+**`Full Stack Developer | Backend & DevOps Enthusiast`**
 
-Hello, welcome to my GitHub!  
-Here, I share my ideas and projects. I hope I can help you with some idea or piece of code.  
-Usually, my preferred languages are Java, Python and JavaScript. I aim to become a Full Stack developer and dive deeper into DevOps.
+Hello, welcome to my GitHub! 🚀  
+Here I share my ideas, studies, and real-world projects.  
+My main focus is backend development, system architecture, and DevOps practices.
+
+I usually work with **Java, Python, and JavaScript**, and I’m continuously improving my skills in **cloud computing, containerization, and data analysis**.
+
+My goal is to become a **high-level backend developer**, capable of designing scalable, secure, and efficient systems.
 
 ---
 
-### 🌐 Contacts
+## 🌐 Contacts
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luis-gustavo-de-araujo-sousa-8316b7340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="https://www.linkedin.com/in/luis-gustavo-de-araujo-sousa-8316b7340">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
@@ -26,7 +30,7 @@ Usually, my preferred languages are Java, Python and JavaScript. I aim to become
 
 ---
 
-### 🤖 Technology that I’m studying
+## 🛠️ Technologies & Tools
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40"/>
@@ -37,14 +41,25 @@ Usually, my preferred languages are Java, Python and JavaScript. I aim to become
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol.png" title="AWS" width="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" width="40"/>
 </div>
 
 ---
 
-### 📊 Professional Statistics
+## ⚙️ DevOps & Cloud
+
+- Containerization with **Docker**
+- Cloud fundamentals using **AWS**
+- Version control with **Git**
+- Environment configuration and deployment practices
+- Focus on scalability, automation, and reliability
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=devLuisdeAaraujo&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br"/>
@@ -52,7 +67,7 @@ Usually, my preferred languages are Java, Python and JavaScript. I aim to become
 
 ---
 
-### 📈 Produtividade em foco
+## 📈 Productivity & Activity
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devLuisdeAaraujo&theme=tokyonight"/>
@@ -61,11 +76,15 @@ Usually, my preferred languages are Java, Python and JavaScript. I aim to become
 
 ---
 
-### 🧠 Continuous evolution...
+## 🧠 Continuous Evolution
 
-I’m driven by challenges and constant learning.  
-My goal is to become a high-level backend developer with mastery in Java, Python, databases, and system architecture.
+I am driven by challenges and continuous learning.  
+Currently, I am deepening my knowledge in:
 
-Currently, I’m deepening my knowledge in **Python, SQL, Power BI, AWS, and databases** — always practicing through real projects.
+- **Backend development with Java and Python**
+- **Databases and SQL optimization**
+- **Power BI and data analysis**
+- **Docker and cloud infrastructure (AWS)**
+- **System architecture and best practices**
 
----
+Always learning, always building. 🚀
