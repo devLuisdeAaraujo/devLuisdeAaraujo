@@ -1,7 +1,7 @@
 <!-- GitHub Profile README | devLuisdeAaraujo -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:263A8B,100:7B2CBF&text=Lu%C3%ADs%20Gustavo&fontColor=FFFFFF&fontSize=54&fontAlignY=37&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20Automation&descAlignY=59&descSize=18&animation=fadeIn" width="100%" alt="Luís Gustavo — Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:263A8B,100:7B2CBF&text=Lu%C3%ADs%20Gustavo&fontColor=FFFFFF&fontSize=54&fontAlignY=37&desc=Full%20Stack%20Developer%20%7C%20Backend%20%C2%B7%20Automation&descAlignY=59&descSize=18&animation=fadeIn" width="100%" alt="Luís Gustavo — Full Stack Developer" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=8B9DFB&center=true&vCenter=true&width=760&lines=Building+scalable+APIs+and+web+applications;Automating+workflows+with+Python;Turning+data+into+practical+insights;Always+learning.+Always+building." alt="Typing introduction" /></a>
 
@@ -73,8 +73,8 @@ I'm **Luís Gustavo de Araújo Sousa**, a Software Engineering undergraduate and
 
 <div align="center">
 
-<!-- Daily contributions over the last month -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devLuisdeAaraujo&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contributions%20in%20the%20last%2031%20days" width="100%" alt="Contribution activity graph" />
+<!-- Contribution calendar (last 12 months) -->
+<img src="https://ghchart.rshah.org/7B2CBF/devLuisdeAaraujo" width="100%" alt="Contribution calendar" />
 
 <!-- Profile overview: contributions per month since the account was created -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devLuisdeAaraujo&theme=tokyonight" width="98%" alt="Contribution overview" />
